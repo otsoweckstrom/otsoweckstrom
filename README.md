@@ -12,6 +12,8 @@ Deep learning & neural networks
 
 AI-driven automation & data analysis
 
+API development & integration
+
 Building scalable SaaS applications
 
 💡 Looking to Collaborate
@@ -24,4 +26,4 @@ I'm open to machine learning projects, AI-powered SaaS ideas, and growth hacking
 
 🔍 Tech Stack & Tools:💻 Python | JavaScript | React | Node.js | SQL | API Development📊 TensorFlow | PyTorch | Scikit-learn | Pandas | Data Scraping⚙️ Cloud & DevOps | Docker | AWS | Firebase
 
-🔥 Always exploring new AI-powered innovations!
+🔥 Always exploring new innovations!
