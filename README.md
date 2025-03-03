@@ -20,7 +20,7 @@ I'm open to machine learning projects, AI-powered SaaS ideas, and growth hacking
 
 📫 Connect With Me
 
-📍 LinkedIn🐦 Twitter/X  ([if applicable, otherwise remove this line](https://x.com/OtsoTech))📬 Reach out to discuss tech, ML, or potential collaborations!
+📍 [LinkedIn](https://www.linkedin.com/in/otso-weckstrom/)🐦 [Twitter/X](https://x.com/OtsoTech)📬 Reach out to discuss tech, ML, or potential collaborations!
 
 🔍 Tech Stack & Tools:💻 Python | JavaScript | React | Node.js | SQL | API Development📊 TensorFlow | PyTorch | Scikit-learn | Pandas | Data Scraping⚙️ Cloud & DevOps | Docker | AWS | Firebase
 
